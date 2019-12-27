@@ -68,9 +68,11 @@ Research assistant at University of the United Arab Emirates (Al Ain - Abu Dhabi
 <summary><strong>Research assistant @ University of the United Arab Emirates (May 17 - Dec 18)</strong> </summary>
 Research assistant at University of the United Arab Emirates (Al Ain - Abu Dhabi),UAE. Robots and media lab
 </details>
+<br>
 
 #### Talks and workshops
 ***
+
 | **Name**                                                            |    **Presented at**    | **Category** | **When** |        **Where**        |
 |---------------------------------------------------------------------|------------------------|--------------|----------|-------------------------|
 | Applied Fractal AI                                                  |       Graz Univ.       |     Talk     | Dec 2019 |      Graz (Austria)     |

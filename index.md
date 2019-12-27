@@ -18,12 +18,12 @@ I've enjoyed Barcelona, Murcia, Madrid, Paris, and London, but I finally settled
 
 ---
 
-<details open>
+<details>
 <summary><strong>Freelance  data  scientist (Apr 15 - Present)</strong></summary>
 I developed a tool to analyze and cluster the developers and repositories of an organization using their git commit history.
 </details>
 <br>
-<details open>
+<details>
 <summary><strong>Fragile Technologies co-founder (Apr 15 - Present)</strong> </summary>
 I developed a tool to analyze and cluster the developers and repositories of an organization using their git commit history.
 </details>
@@ -31,22 +31,22 @@ I developed a tool to analyze and cluster the developers and repositories of an 
 
 #### Full time jobs in private companies
 ***
-<details open>
+<details>
 <summary><strong>Production machine learning engineer @ source{d} (Apr 19 - Dec 19)</strong> </summary>
 I developed a tool to analyze and cluster the developers and repositories of an organization using their git commit history.
 </details>
 <br>
-<details open>
+<details>
 <summary><strong>Research scientist & AI engineer @ Instadeep (Sep 18 - Feb 19)</strong> </summary>
 I developed a tool to analyze and cluster the developers and repositories of an organization using their git commit history.
 </details>
 <br>
-<details open>
+<details>
 <summary><strong>AI engineer @ source{d} (Jul 17 - Dec 17)</strong> </summary>
 I developed a tool to analyze and cluster the developers and repositories of an organization using their git commit history.
 </details>
 <br>
-<details open>
+<details>
 <summary><strong>AI researcher @ HCSoft Programación (Jan 16 - Dec 16)</strong> </summary>
 I developed a tool to analyze and cluster the developers and repositories of an organization using their git commit history.
 </details>
@@ -54,17 +54,17 @@ I developed a tool to analyze and cluster the developers and repositories of an 
 
 #### Academic research
 ***
-<details open>
+<details>
 <summary><strong>Team member @ Research group UMH Univ. (Dec 16 - Present)</strong> </summary>
 Aplicaciones de los Sistemas Dinámicos Discretos y Continuos, MTM2016-74921-P  (AEI/FEDER,  UE). UMH Univ., Elche, Spain
 </details>
 <br>
-<details open>
+<details>
 <summary><strong>Research assistant @ University of the United Arab Emirates (May 17 - Dec 18)</strong> </summary>
 Research assistant at University of the United Arab Emirates (Al Ain - Abu Dhabi),UAE. Robots and media lab
 </details>
 <br>
-<details open>
+<details>
 <summary><strong>Research assistant @ University of the United Arab Emirates (May 17 - Dec 18)</strong> </summary>
 Research assistant at University of the United Arab Emirates (Al Ain - Abu Dhabi),UAE. Robots and media lab
 </details>

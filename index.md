@@ -12,7 +12,11 @@ I've enjoyed Barcelona, Murcia, Madrid, Paris, and London, but I finally settled
 <br>
 </details>
 
+![Experience](images/CV%20history.png)
 
+![Papers](images/Papers%20Guillem%20Duran.png)
+
+<br>
 
 ### Work Experience
 

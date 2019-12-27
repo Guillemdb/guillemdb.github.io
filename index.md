@@ -15,12 +15,12 @@ I've enjoyed Barcelona, Murcia, Madrid, Paris, and London, but I finally settled
 ### Work Experience
 
 <details open>
-<summary><h5>Freelance  data  scientist</h5> <h6>(Apr 15 - Present)</h6> </summary>
+<summary><strong>Freelance  data  scientist (Apr 15 - Present)</strong></summary>
 I developed a tool to analyze and cluster the developers and repositories of an organization using their git commit history.
 </details>
 
 <details open>
-<summary><h5>Fragile Technologies co-founder</h5> <h6>(Apr 15 - Present)</h6> </summary>
+<summary><strong>Fragile Technologies co-founder (Apr 15 - Present)</strong> </summary>
 I developed a tool to analyze and cluster the developers and repositories of an organization using their git commit history.
 </details>
 
@@ -28,33 +28,33 @@ I developed a tool to analyze and cluster the developers and repositories of an 
 #### Full time jobs in private companies
 
 <details open>
-<summary><h5>Production machine learning engineer @ source{d}</h5> <h6>(Apr 19 - Dec 19)</h6> </summary>
+<summary><strong>Production machine learning engineer @ source{d} (Apr 19 - Dec 19)</strong> </summary>
 I developed a tool to analyze and cluster the developers and repositories of an organization using their git commit history.
 </details>
 
 <details open>
-<summary><h5>Research scientist & AI engineer @ Instadeep</h5> <h6>(Sep 18 - Feb 19)</h6> </summary>
+<summary><strong>Research scientist & AI engineer @ Instadeep (Sep 18 - Feb 19)</strong> </summary>
 I developed a tool to analyze and cluster the developers and repositories of an organization using their git commit history.
 </details>
 
 <details open>
-<summary><h5>AI engineer @ source{d}</h5> <h6>(Jul 17 - Dec 17)</h6> </summary>
+<summary><strong>AI engineer @ source{d} (Jul 17 - Dec 17)</strong> </summary>
 I developed a tool to analyze and cluster the developers and repositories of an organization using their git commit history.
 </details>
 
 <details open>
-<summary><h5>AI researcher @ HCSoft Programación</h5> <h6>(Jan 16 - Dec 16)</h6> </summary>
+<summary><strong>AI researcher @ HCSoft Programación (Jan 16 - Dec 16)</strong> </summary>
 I developed a tool to analyze and cluster the developers and repositories of an organization using their git commit history.
 </details>
 
 #### Academic research
 
 <details open>
-<summary><h5>Team member @ Research group UMH Univ.</h5> <h6>(Dec 16 - Present)</h6> </summary>
+<summary><strong>Team member @ Research group UMH Univ. (Dec 16 - Present)</strong> </summary>
 Aplicaciones de los Sistemas Dinámicos Discretos y Continuos, MTM2016-74921-P  (AEI/FEDER,  UE). UMH Univ., Elche, Spain
 </details>
 
 <details open>
-<summary><h5>Research assistant @ University of the United Arab Emirates</h5> <h6>(May 17 - Dec 18)</h6> </summary>
+<summary><strong>Research assistant @ University of the United Arab Emirates (May 17 - Dec 18)</strong> </summary>
 Research assistant at University of the United Arab Emirates (Al Ain - Abu Dhabi),UAE. Robots and media lab
 </details>

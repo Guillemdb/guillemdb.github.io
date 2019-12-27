@@ -72,26 +72,163 @@ Research assistant at University of the United Arab Emirates (Al Ain - Abu Dhabi
 
 #### Talks and workshops
 ***
-
-| **Name**                                                            |    **Presented at**    | **Category** | **When** |        **Where**        |
-|:--------------------------------------------------------------------|:-----------------------|:-------------|:---------|:------------------------|
-| Applied Fractal AI                                                  |       Graz Univ.       |     Talk     | Dec 2019 |      Graz (Austria)     |
-| Introducción a data science en Python (V4)                          |         PyConES        |   Workshop   | Oct 2019 |     Alicante (Spain)    |
-| Aprendiendo como aprenden las máquinas (V2)                         |         PyConES        |   Workshop   | Oct 2019 |     Alicante (Spain)    |
-| Aprendiendo como aprenden las máquinas (V1)                         |     PyData Mallorca    |   Workshop   | Sep 2019 |      Palma (Spain)      |
-| Introducción a data science en Python (V3)                          |     PyData Mallorca    |   Workshop   | Jul 2019 |     Felanitx (Spain)    |
-| Generalized TCP-RED dynamical model for Internet congestion control | Miguel Hernández Univ. |     Talk     | Feb 2019 |      Elche (Spain)      |
-| Hacking Reinforcement Learning (20 min version)                     |         PyConES        |     Talk     | Oct 2018 |      Málaga (Spain)     |
-| Introducción a data science en Python (V2)                          |         PyConES        |   Workshop   | Oct 2018 |      Málaga (Spain)     |
-| Introducción a data science en Python (V1)                          |     PyData Mallorca    |   Workshop   | Sep 2018 |      Palma (Spain)      |
-| Hacking Reinforcement Learning                                      |       EuroPython       |     Talk     | Jul 2018 |      Edinburgh (UK)     |
-| Introduction to Fractal AI                                          |     Alicante Univ.     |     Talk     | Mar 2018 |     Alicante (Spain)    |
-| Reinforcement learning for developers                               |         PiterPy        |     Talk     | Nov 2017 | St. Petersburg (Russia) |
-| Inside Airbnb: Visualizing data that includes geographic locations  |       EuroPython       |     Talk     | Jul 2017 |      Rimini (Italy)     |
-| Happiness inside a job: a social network analysis (V2)              | Miguel Hernández Univ. |     Talk     | Jul 2017 |      Elche (Spain)      |
-| Potential applications of Fractal AI to Machine Learning            |        source{d}       |   Workshop   | Jun 2017 |      Madrid (Spain)     |
-| Happiness inside a job: a social network analysis (V1)              |    PyData Barcelona    |     Talk     | May 2017 |    Barcelona (Spain)    |
-| Introduction to Fractal AI theory for researchers and Phd. students |     Zaragoza Univ.     |   Workshop   | Mar 2017 |     Zaragoza (Spain)    |
-| Introduction to data science                                        |     PyData Mallorca    |   Workshop   | Feb 2017 |      Palma (Spain)      |
-| Per shaolin ad astra                                                |         PyConES        |     Talk     | Oct 2016 |     Almería (Spain)     |
-| Interactive Data Kung Fu with Shaolin                               |       EuroPython       |     Talk     | Jul 2016 |      Bilbao (Spain)     |
+<details>
+<summary>summary table</summary>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-0pky">Name</th>
+    <th class="tg-c3ow">Presented at</th>
+    <th class="tg-c3ow">Category</th>
+    <th class="tg-c3ow">When</th>
+    <th class="tg-c3ow">Where</th>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Applied Fractal AI</td>
+    <td class="tg-c3ow">Graz Univ.</td>
+    <td class="tg-c3ow">Talk</td>
+    <td class="tg-c3ow">Dec 2019</td>
+    <td class="tg-c3ow">Graz (Austria)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Introducción a data science en Python (V4)</td>
+    <td class="tg-c3ow">PyConES</td>
+    <td class="tg-c3ow">Workshop</td>
+    <td class="tg-c3ow">Oct 2019</td>
+    <td class="tg-c3ow">Alicante (Spain)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Aprendiendo como aprenden las máquinas (V2)</td>
+    <td class="tg-c3ow">PyConES</td>
+    <td class="tg-c3ow">Workshop</td>
+    <td class="tg-c3ow">Oct 2019</td>
+    <td class="tg-c3ow">Alicante (Spain)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Aprendiendo como aprenden las máquinas (V1)</td>
+    <td class="tg-c3ow">PyData Mallorca</td>
+    <td class="tg-c3ow">Workshop</td>
+    <td class="tg-c3ow">Sep 2019</td>
+    <td class="tg-c3ow">Palma (Spain)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Introducción a data science en Python (V3)</td>
+    <td class="tg-c3ow">PyData Mallorca</td>
+    <td class="tg-c3ow">Workshop</td>
+    <td class="tg-c3ow">Jul 2019</td>
+    <td class="tg-c3ow">Felanitx (Spain)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Generalized TCP-RED dynamical model for Internet congestion control</td>
+    <td class="tg-c3ow">Miguel Hernández Univ.</td>
+    <td class="tg-c3ow">Talk</td>
+    <td class="tg-c3ow">Feb 2019</td>
+    <td class="tg-c3ow">Elche (Spain)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Hacking Reinforcement Learning (20 min version)</td>
+    <td class="tg-c3ow">PyConES</td>
+    <td class="tg-c3ow">Talk</td>
+    <td class="tg-c3ow">Oct 2018</td>
+    <td class="tg-c3ow">Málaga (Spain)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Introducción a data science en Python (V2)</td>
+    <td class="tg-c3ow">PyConES</td>
+    <td class="tg-c3ow">Workshop</td>
+    <td class="tg-c3ow">Oct 2018</td>
+    <td class="tg-c3ow">Málaga (Spain)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Introducción a data science en Python (V1)</td>
+    <td class="tg-c3ow">PyData Mallorca</td>
+    <td class="tg-c3ow">Workshop</td>
+    <td class="tg-c3ow">Sep 2018</td>
+    <td class="tg-c3ow">Palma (Spain)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Hacking Reinforcement Learning</td>
+    <td class="tg-c3ow">EuroPython</td>
+    <td class="tg-c3ow">Talk</td>
+    <td class="tg-c3ow">Jul 2018</td>
+    <td class="tg-c3ow">Edinburgh (UK)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Introduction to Fractal AI</td>
+    <td class="tg-c3ow">Alicante Univ.</td>
+    <td class="tg-c3ow">Talk</td>
+    <td class="tg-c3ow">Mar 2018</td>
+    <td class="tg-c3ow">Alicante (Spain)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Reinforcement learning for developers</td>
+    <td class="tg-c3ow">PiterPy</td>
+    <td class="tg-c3ow">Talk</td>
+    <td class="tg-c3ow">Nov 2017</td>
+    <td class="tg-c3ow">St. Petersburg (Russia)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Inside Airbnb: Visualizing data that includes geographic locations</td>
+    <td class="tg-c3ow">EuroPython</td>
+    <td class="tg-c3ow">Talk</td>
+    <td class="tg-c3ow">Jul 2017</td>
+    <td class="tg-c3ow">Rimini (Italy)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Happiness inside a job: a social network analysis (V2)</td>
+    <td class="tg-c3ow">Miguel Hernández Univ.</td>
+    <td class="tg-c3ow">Talk</td>
+    <td class="tg-c3ow">Jul 2017</td>
+    <td class="tg-c3ow">Elche (Spain)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Potential applications of Fractal AI to Machine Learning</td>
+    <td class="tg-c3ow">source{d}</td>
+    <td class="tg-c3ow">Workshop</td>
+    <td class="tg-c3ow">Jun 2017</td>
+    <td class="tg-c3ow">Madrid (Spain)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Happiness inside a job: a social network analysis (V1)</td>
+    <td class="tg-c3ow">PyData Barcelona</td>
+    <td class="tg-c3ow">Talk</td>
+    <td class="tg-c3ow">May 2017</td>
+    <td class="tg-c3ow">Barcelona (Spain)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Introduction to Fractal AI theory for researchers and Phd. students</td>
+    <td class="tg-c3ow">Zaragoza Univ.</td>
+    <td class="tg-c3ow">Workshop</td>
+    <td class="tg-c3ow">Mar 2017</td>
+    <td class="tg-c3ow">Zaragoza (Spain)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Introduction to data science</td>
+    <td class="tg-c3ow">PyData Mallorca</td>
+    <td class="tg-c3ow">Workshop</td>
+    <td class="tg-c3ow">Feb 2017</td>
+    <td class="tg-c3ow">Palma (Spain)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Per shaolin ad astra</td>
+    <td class="tg-c3ow">PyConES</td>
+    <td class="tg-c3ow">Talk</td>
+    <td class="tg-c3ow">Oct 2016</td>
+    <td class="tg-c3ow">Almería (Spain)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Interactive Data Kung Fu with Shaolin</td>
+    <td class="tg-c3ow">EuroPython</td>
+    <td class="tg-c3ow">Talk</td>
+    <td class="tg-c3ow">Jul 2016</td>
+    <td class="tg-c3ow">Bilbao (Spain)</td>
+  </tr>
+</table>
+</details>
+<br>

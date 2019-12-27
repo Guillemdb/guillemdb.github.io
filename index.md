@@ -12,15 +12,14 @@ I've enjoyed Barcelona, Murcia, Madrid, Paris, and London, but I finally settled
 <br>
 </details>
 
-![Experience](images/CV%20history.png)
-
-![Papers](images/Papers%20Guillem%20Duran.png)
 
 <br>
 
 ### Work Experience
 
 ---
+
+![Experience](images/CV%20history.png)
 
 <details>
 <summary><strong>Freelance  data  scientist (Apr 15 - Present)</strong></summary>
@@ -236,3 +235,8 @@ Research assistant at University of the United Arab Emirates (Al Ain - Abu Dhabi
 </table>
 </details>
 <br>
+
+### Papers
+
+----
+![Papers](images/Papers%20Guillem%20Duran.png)

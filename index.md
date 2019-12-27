@@ -74,7 +74,7 @@ Research assistant at University of the United Arab Emirates (Al Ain - Abu Dhabi
 ***
 
 | **Name**                                                            |    **Presented at**    | **Category** | **When** |        **Where**        |
-|---------------------------------------------------------------------|------------------------|--------------|----------|-------------------------|
+|:--------------------------------------------------------------------|:-----------------------|:-------------|:---------|:------------------------|
 | Applied Fractal AI                                                  |       Graz Univ.       |     Talk     | Dec 2019 |      Graz (Austria)     |
 | Introducción a data science en Python (V4)                          |         PyConES        |   Workshop   | Oct 2019 |     Alicante (Spain)    |
 | Aprendiendo como aprenden las máquinas (V2)                         |         PyConES        |   Workshop   | Oct 2019 |     Alicante (Spain)    |

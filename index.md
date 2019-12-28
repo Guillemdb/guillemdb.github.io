@@ -19,8 +19,8 @@ I've enjoyed Barcelona, Murcia, Madrid, Paris, and London, but I finally settled
 
 ---
 
-![Experience](images/CV%20history.png)
-
+<img src="images/experience.png" alt="Experience" style="max-width: 130%;">
+<br>
 <details>
 <summary><strong>Freelance  data  scientist (Apr 15 - Present)</strong></summary>
 I developed a tool to analyze and cluster the developers and repositories of an organization using their git commit history.
@@ -239,4 +239,5 @@ Research assistant at University of the United Arab Emirates (Al Ain - Abu Dhabi
 ### Papers
 
 ----
-![Papers](images/Papers%20Guillem%20Duran.png)
+
+<img src="images/papers.png" alt="Papers" style="max-width: 130%;">

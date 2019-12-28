@@ -21,6 +21,10 @@ I've enjoyed Barcelona, Murcia, Madrid, Paris, and London, but I finally settled
 
 <img src="images/experience.png" alt="Experience" style="max-width: 130%;">
 <br>
+
+#### Self employed
+***
+
 <details>
 <summary><strong>Freelance  data  scientist (Apr 15 - Mar 19)</strong></summary>
 I worked as a contractor in different kinds of projects such as:
@@ -47,6 +51,7 @@ I worked as a contractor in different kinds of projects such as:
 <details>
 <summary><strong>Fragile Technologies co-founder (Mar 19 - Present)</strong> </summary>
 I collaborate with my associates to provide the following services:
+<br>
 <ul style="list-style-type:disc;">
     <li>Developing custom algorithms to solve NP hard problems</li>
     <li>Advising on data science projects: infrastructure, architecture, product design and deployment</li>
@@ -74,6 +79,7 @@ Working remotely as a part of the production machine learning team I have:
 <details>
 <summary><strong>Research scientist & AI engineer @ Instadeep (Sep 18 - Feb 19)</strong> </summary>
 Working at the Paris and London offices I improved my mentoring and research skills.
+<br>
 <ul style="list-style-type:disc;">
     <li>I taught and enforced code and documentation quality standards</li>
     <li>I Supervised and helped Phd. students with their research</li>
@@ -86,6 +92,7 @@ Working at the Paris and London offices I improved my mentoring and research ski
 <details>
 <summary><strong>AI engineer @ source{d} (Jul 17 - Dec 17)</strong> </summary>
 Source{d} sponsored my research on Fractal AI. During my six months contract I:
+<br>
 <ul style="list-style-type:disc;">
     <li>Implemented a prototype of a planning algorithm based in our AI theory</li>
     <li>Built a reinforcement learning library in Keras</li>
@@ -98,6 +105,7 @@ Source{d} sponsored my research on Fractal AI. During my six months contract I:
 <summary><strong>AI researcher @ HCSoft Programación (Jan 16 - Dec 16)</strong> </summary>
 <br>
 At HCSoft I contributed to developing the theoretical foundations of the Fractal AI theory.
+<br>
 <ul style="list-style-type:disc;">
     <li>Helped in develop the theoretical foundations of Fractal AI theory</li>
     <li>Build prototypes to test different research hypothesis</li>
@@ -113,7 +121,7 @@ At HCSoft I contributed to developing the theoretical foundations of the Fractal
 <summary><strong>Team member @ Research group UMH Univ. (Dec 16 - Present)</strong> </summary>
 I am a team member of "Aplicaciones de los Sistemas Dinámicos Discretos y Continuos, MTM2016-74921-P  (AEI/FEDER,  UE)" at
  UMH Univ., Elche, Spain. In this team, I work with a team of University professors that specialize in complex systems analysis.
-
+<br>
 <ul style="list-style-type:disc;">
     <li>I propose new research topics that take advantage of an interdisciplinary team</li>
     <li>I test research hypothesis coding prototypes in Python</li>
@@ -296,12 +304,6 @@ Find me on [Google scholar](https://scholar.google.es/citations?hl=ca&user=xx1L5
 
 <img src="images/papers.png" alt="Papers" style="max-width: 130%;">
 <br>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
 <table class="tg">
   <tr>
     <th class="tg-0lax">Name</th>
@@ -339,7 +341,7 @@ Find me on [Google scholar](https://scholar.google.es/citations?hl=ca&user=xx1L5
     <td class="tg-0lax">March 2018</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Happiness an inside Job? Turnover prediction from likeability, engament and relative happiness</td>
+    <td class="tg-0lax">Happiness an inside Job? Turnover prediction from likeability, engagement and relative happiness</td>
     <td class="tg-0lax">Proceedings of the 2017 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining 2017</td>
     <td class="tg-0lax">July 2017</td>
   </tr>

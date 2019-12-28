@@ -23,7 +23,25 @@ I've enjoyed Barcelona, Murcia, Madrid, Paris, and London, but I finally settled
 <br>
 <details>
 <summary><strong>Freelance  data  scientist (Apr 15 - Mar 19)</strong></summary>
-I developed a tool to analyze and cluster the developers and repositories of an organization using their git commit history.
+I worked as a contractor in different kinds of projects such as:
+<br>
+<div class="grid">
+    <div class="col-1-2">
+        <ul style="list-style-type:disc;">
+          <li>Training econometric models to predict antibiotic resistance</li>
+          <li>Predicting prices of real state assets</li>
+          <li>Designing data pipelines for small businesses</li>
+        </ul>  
+    </div>
+    <div class="col-1-2">
+        <ul style="list-style-type:disc;">
+          <li>Mining criptocurrency data from different sources</li>
+          <li>Using NLP models to predict blockchain ICO success</li>
+          <li>Predicting employees churn rate.</li>
+        </ul>  
+    </div>
+</div>
+
 </details>
 <br>
 <details>
@@ -76,14 +94,7 @@ Research assistant at University of the United Arab Emirates (Al Ain - Abu Dhabi
 #### Talks and workshops
 ***
 <details>
-<summary>summary table</summary>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
+<summary>summary table (click me)</summary>
 <table class="tg">
   <tr>
     <th class="tg-0pky">Name</th>

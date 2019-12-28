@@ -37,7 +37,7 @@ I worked as a contractor in different kinds of projects such as:
         <ul style="list-style-type:disc;">
           <li>Mining criptocurrency data from different sources</li>
           <li>Using NLP models to predict blockchain ICO success</li>
-          <li>Predicting employees churn rate.</li>
+          <li>Predicting employees churn rate</li>
         </ul>  
     </div>
 </div>
@@ -46,7 +46,12 @@ I worked as a contractor in different kinds of projects such as:
 <br>
 <details>
 <summary><strong>Fragile Technologies co-founder (Mar 19 - Present)</strong> </summary>
-I developed a tool to analyze and cluster the developers and repositories of an organization using their git commit history.
+I collaborate with my associates to provide the following services:
+<ul style="list-style-type:disc;">
+    <li>Developing custom algorithms to solve NP hard problems</li>
+    <li>Advising on data science projects: infrastructure, architecture, product design and deployment</li>
+    <li>Developing new Reinforcement Learning algorithms</li>
+</ul>  
 </details>
 <br>
 
@@ -54,22 +59,51 @@ I developed a tool to analyze and cluster the developers and repositories of an 
 ***
 <details>
 <summary><strong>Production machine learning engineer @ source{d} (Apr 19 - Dec 19)</strong> </summary>
-I developed a tool to analyze and cluster the developers and repositories of an organization using their git commit history.
+Working remotely as a part of the production machine learning team I have:
+<br>
+<ul style="list-style-type:disc;">
+    <li>Designed, implemented, and deployed a tool that classified the projects and developers of a Github organization based on their commit history</li>
+    <li>Maintained the Machine Learning stack of the company</li>
+    <li>Maintained the Docker containers, and the continuous integration pipeline of the ML projects</li>
+    <li>Optimized the performance of the team's algorithm by deploying them in a pyspark cluster</li>
+    <li>Built interactive dashboards using Apache Superset and different Python visualization libraries</li>
+</ul>  
+
 </details>
 <br>
 <details>
 <summary><strong>Research scientist & AI engineer @ Instadeep (Sep 18 - Feb 19)</strong> </summary>
-I developed a tool to analyze and cluster the developers and repositories of an organization using their git commit history.
+Working at the Paris and London offices I improved my mentoring and research skills.
+<ul style="list-style-type:disc;">
+    <li>I taught and enforced code and documentation quality standards</li>
+    <li>I Supervised and helped Phd. students with their research</li>
+    <li>I designed a novel architecture search and optimization pipeline in Pytorch based on AlphaZero</li>
+    <li>I collaborated in the design of core business algorithms</li>
+    <li>I implemented many different Reinforcement Learning algorithms for both continuous and discrete problems</li>
+</ul>  
 </details>
 <br>
 <details>
 <summary><strong>AI engineer @ source{d} (Jul 17 - Dec 17)</strong> </summary>
-I developed a tool to analyze and cluster the developers and repositories of an organization using their git commit history.
+Source{d} sponsored my research on Fractal AI. During my six months contract I:
+<ul style="list-style-type:disc;">
+    <li>Implemented a prototype of a planning algorithm based in our AI theory</li>
+    <li>Built a reinforcement learning library in Keras</li>
+    <li>Combined my planning algorithms with deep learning to improve their scalability</li>
+    <li>Learned best coding and documentation practices</li>
+</ul>  
 </details>
 <br>
 <details>
 <summary><strong>AI researcher @ HCSoft Programación (Jan 16 - Dec 16)</strong> </summary>
-I developed a tool to analyze and cluster the developers and repositories of an organization using their git commit history.
+<br>
+At HCSoft I contributed to developing the theoretical foundations of the Fractal AI theory.
+<ul style="list-style-type:disc;">
+    <li>Helped in develop the theoretical foundations of Fractal AI theory</li>
+    <li>Build prototypes to test different research hypothesis</li>
+    <li>Coded visualization and debugging tools for planning and optimization algorithms</li>
+    <li>Designed prototypes for solving different NP hard problems</li>
+</ul>  
 </details>
 <br>
 
@@ -77,7 +111,14 @@ I developed a tool to analyze and cluster the developers and repositories of an 
 ***
 <details>
 <summary><strong>Team member @ Research group UMH Univ. (Dec 16 - Present)</strong> </summary>
-Aplicaciones de los Sistemas Dinámicos Discretos y Continuos, MTM2016-74921-P  (AEI/FEDER,  UE). UMH Univ., Elche, Spain
+I am a team member of "Aplicaciones de los Sistemas Dinámicos Discretos y Continuos, MTM2016-74921-P  (AEI/FEDER,  UE)" at
+ UMH Univ., Elche, Spain. In this team, I work with a team of University professors that specialize in complex systems analysis.
+
+<ul style="list-style-type:disc;">
+    <li>I propose new research topics that take advantage of an interdisciplinary team</li>
+    <li>I test research hypothesis coding prototypes in Python</li>
+    <li>I code visualizations and figures for the papers we publish</li>
+</ul>  
 </details>
 <br>
 <details>
@@ -86,8 +127,8 @@ Research assistant at University of the United Arab Emirates (Al Ain - Abu Dhabi
 </details>
 <br>
 <details>
-<summary><strong>Research assistant @ University of the United Arab Emirates (May 17 - Dec 18)</strong> </summary>
-Research assistant at University of the United Arab Emirates (Al Ain - Abu Dhabi),UAE. Robots and media lab
+<summary><strong>Cloud computing DevOps internship @ Polytechnic University of Catalonia  (Jun 14 - Dec 14)</strong> </summary>
+I installed, configured and administrated an OpenNebula-based cloud computing.
 </details>
 <br>
 

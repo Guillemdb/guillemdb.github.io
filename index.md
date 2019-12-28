@@ -1,6 +1,6 @@
-## Guillem Duran Ballester
+## Professional CV
 
-Welcome to my CV!
+Welcome to my CV! This page is is still under construction
 
 <details open>
 <summary><strong>About me</strong></summary>

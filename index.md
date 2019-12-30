@@ -1,3 +1,22 @@
+<div class="grid">
+    <div class="col-1-2">
+    <a href="https://twitter.com/miau_db">
+        <img src="images/twitter_white.png" style="background-color: rgb(29, 161, 242); width: 50px; height: 50px;">
+    </a>
+    </div>
+    <div class="col-1-2">
+    <a href="https://github.com/guillemdb">
+        <img src="images/github.svg" style="background-color: rgb(240, 240, 240); width: 50px; height: 50px;">
+    </a>
+    </div>
+    <div class="col-1-2">
+    <a href="https://www.linkedin.com/in/guillem-duran-ballester-97346558/">
+        <img src="images/linkedin_blue.png" style="background-color: rgb(255, 255, 255); width: 50px; height: 50px;">
+    </a>
+    </div>
+</div>
+<br>
+
 # Professional CV
 
 Welcome to my CV! This page is is still under construction
@@ -32,16 +51,16 @@ I worked as a contractor in different kinds of projects such as:
 <div class="grid">
     <div class="col-1-2">
         <ul style="list-style-type:disc;">
-          <li>Training econometric models to predict antibiotic resistance</li>
-          <li>Predicting prices of real state assets</li>
-          <li>Designing data pipelines for small businesses</li>
+          <li>Training econometric models to predict antibiotic resistance.</li>
+          <li>Predicting prices of real state assets.</li>
+          <li>Designing data pipelines for small businesses.</li>
         </ul>  
     </div>
     <div class="col-1-2">
         <ul style="list-style-type:disc;">
-          <li>Mining criptocurrency data from different sources</li>
-          <li>Using NLP models to predict blockchain ICO success</li>
-          <li>Predicting employees churn rate</li>
+          <li>Mining criptocurrency data from different sources.</li>
+          <li>Using NLP models to predict blockchain ICO success.</li>
+          <li>Predicting employees churn rate.</li>
         </ul>  
     </div>
 </div>
@@ -55,7 +74,7 @@ I collaborate with my associates to provide the following services:
 <ul style="list-style-type:disc;">
     <li>Developing custom algorithms to solve NP hard problems</li>
     <li>Advising on data science projects: infrastructure, architecture, product design and deployment</li>
-    <li>Developing new Reinforcement Learning algorithms</li>
+    <li>Developing new Reinforcement Learning algorithms.</li>
 </ul>  
 </details>
 <br>
@@ -68,10 +87,10 @@ Working remotely as a part of the production machine learning team I have:
 <br>
 <ul style="list-style-type:disc;">
     <li>Designed, implemented, and deployed a tool that classified the projects and developers of a Github organization based on their commit history</li>
-    <li>Maintained the Machine Learning stack of the company</li>
-    <li>Maintained the Docker containers, and the continuous integration pipeline of the ML projects</li>
-    <li>Optimized the performance of the team's algorithm by deploying them in a pyspark cluster</li>
-    <li>Built interactive dashboards using Apache Superset and different Python visualization libraries</li>
+    <li>Maintained the Machine Learning stack of the company.</li>
+    <li>Maintained the Docker containers, and the continuous integration pipeline of the ML projects.</li>
+    <li>Optimized the performance of the team's algorithm by deploying them in a pyspark cluster.</li>
+    <li>Built interactive dashboards using Apache Superset and different Python visualization libraries.</li>
 </ul>  
 
 </details>
@@ -81,11 +100,11 @@ Working remotely as a part of the production machine learning team I have:
 Working at the Paris and London offices I improved my mentoring and research skills.
 <br>
 <ul style="list-style-type:disc;">
-    <li>I taught and enforced code and documentation quality standards</li>
-    <li>I Supervised and helped Phd. students with their research</li>
-    <li>I designed a novel architecture search and optimization pipeline in Pytorch based on AlphaZero</li>
-    <li>I collaborated in the design of core business algorithms</li>
-    <li>I implemented many different Reinforcement Learning algorithms for both continuous and discrete problems</li>
+    <li>I taught and enforced code and documentation quality standards.</li>
+    <li>I Supervised and helped Phd. students with their research.</li>
+    <li>I designed a novel architecture search and optimization pipeline in Pytorch based on AlphaZero.</li>
+    <li>I collaborated in the design of core business algorithms.</li>
+    <li>I implemented many different Reinforcement Learning algorithms for both continuous and discrete problems.</li>
 </ul>  
 </details>
 <br>
@@ -94,10 +113,10 @@ Working at the Paris and London offices I improved my mentoring and research ski
 Source{d} sponsored my research on Fractal AI. During my six months contract I:
 <br>
 <ul style="list-style-type:disc;">
-    <li>Implemented a prototype of a planning algorithm based in our AI theory</li>
-    <li>Built a reinforcement learning library in Keras</li>
-    <li>Combined my planning algorithms with deep learning to improve their scalability</li>
-    <li>Learned best coding and documentation practices</li>
+    <li>Implemented a prototype of a planning algorithm based in our AI theory.</li>
+    <li>Built a reinforcement learning library in Keras.</li>
+    <li>Combined my planning algorithms with deep learning to improve their scalability.</li>
+    <li>Learned best coding and documentation practices.</li>
 </ul>  
 </details>
 <br>
@@ -107,10 +126,10 @@ Source{d} sponsored my research on Fractal AI. During my six months contract I:
 At HCSoft I contributed to developing the theoretical foundations of the Fractal AI theory.
 <br>
 <ul style="list-style-type:disc;">
-    <li>Helped in develop the theoretical foundations of Fractal AI theory</li>
-    <li>Build prototypes to test different research hypothesis</li>
-    <li>Coded visualization and debugging tools for planning and optimization algorithms</li>
-    <li>Designed prototypes for solving different NP hard problems</li>
+    <li>Helped in develop the theoretical foundations of Fractal AI theory.</li>
+    <li>Build prototypes to test different research hypothesis.</li>
+    <li>Coded visualization and debugging tools for planning and optimization algorithms.</li>
+    <li>Designed prototypes for solving different NP hard problems.</li>
 </ul>  
 </details>
 <br>
@@ -123,15 +142,15 @@ I am a team member of "Aplicaciones de los Sistemas Dinámicos Discretos y Conti
  UMH Univ., Elche, Spain. In this team, I work with a team of University professors that specialize in complex systems analysis.
 <br>
 <ul style="list-style-type:disc;">
-    <li>I propose new research topics that take advantage of an interdisciplinary team</li>
-    <li>I test research hypothesis coding prototypes in Python</li>
-    <li>I code visualizations and figures for the papers we publish</li>
+    <li>I propose new research topics that take advantage of an interdisciplinary team.</li>
+    <li>I test research hypothesis coding prototypes in Python.</li>
+    <li>I code visualizations and figures for the papers we publish.</li>
 </ul>  
 </details>
 <br>
 <details>
 <summary><strong>Research assistant @ University of the United Arab Emirates (May 17 - Dec 18)</strong> </summary>
-Research assistant at University of the United Arab Emirates (Al Ain - Abu Dhabi),UAE. Robots and media lab
+Research assistant at University of the United Arab Emirates (Al Ain - Abu Dhabi),UAE. Robots and media lab.
 </details>
 <br>
 <details>
@@ -153,35 +172,40 @@ I installed, configured and administrated an OpenNebula-based cloud computing.
     <th class="tg-c3ow">Where</th>
   </tr>
   <tr>
-    <td class="tg-0pky">Applied Fractal AI</td>
+    <td class="tg-0pky"><a href="https://docs.google.com/presentation/d/1ZkrfHSchUDXSdSv9eRjk-tUAertezRmeqyb7EtSD64o/edit?usp=sharing">
+    Applied Fractal AI</a> </td>
     <td class="tg-c3ow">Graz Univ.</td>
     <td class="tg-c3ow">Talk</td>
     <td class="tg-c3ow">Dec 2019</td>
     <td class="tg-c3ow">Graz (Austria)</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Introducción a data science en Python (V4)</td>
+    <td class="tg-0pky"><a href="https://github.com/PyDataMallorca/FTW2019_Introduccion_a_data_science_en_Python">
+   Introducción a data science en Python (V4) </a> </td>
     <td class="tg-c3ow">PyConES</td>
     <td class="tg-c3ow">Workshop</td>
     <td class="tg-c3ow">Oct 2019</td>
     <td class="tg-c3ow">Alicante (Spain)</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Aprendiendo como aprenden las máquinas (V2)</td>
+    <td class="tg-0pky"><a href="https://github.com/PyDataMallorca/PyConES2019_Aprendiendo_como_aprenden_las_maquinas">
+    Aprendiendo como aprenden las máquinas (V2)</a> </td>
     <td class="tg-c3ow">PyConES</td>
     <td class="tg-c3ow">Workshop</td>
     <td class="tg-c3ow">Oct 2019</td>
     <td class="tg-c3ow">Alicante (Spain)</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Aprendiendo como aprenden las máquinas (V1)</td>
+    <td class="tg-0pky"><a href="https://github.com/PyDataMallorca/PyConES2019_Aprendiendo_como_aprenden_las_maquinas">
+    Aprendiendo como aprenden las máquinas (V1)</a> </td>
     <td class="tg-c3ow">PyData Mallorca</td>
     <td class="tg-c3ow">Workshop</td>
     <td class="tg-c3ow">Sep 2019</td>
     <td class="tg-c3ow">Palma (Spain)</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Introducción a data science en Python (V3)</td>
+    <td class="tg-0pky"><a href="https://github.com/PyDataMallorca/FTW2019_Introduccion_a_data_science_en_Python">
+   Introducción a data science en Python (V3) </a></td>
     <td class="tg-c3ow">PyData Mallorca</td>
     <td class="tg-c3ow">Workshop</td>
     <td class="tg-c3ow">Jul 2019</td>
@@ -195,28 +219,32 @@ I installed, configured and administrated an OpenNebula-based cloud computing.
     <td class="tg-c3ow">Elche (Spain)</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Hacking Reinforcement Learning (20 min version)</td>
+    <td class="tg-0pky"><a href="https://docs.google.com/presentation/d/1NGfEMuQDa9ERqrLGjYiA8PoJQuQYyTtH4Df3g0ggEcQ/edit?usp=sharing">
+     Hacking Reinforcement Learning (20 min version)</a></td>
     <td class="tg-c3ow">PyConES</td>
     <td class="tg-c3ow">Talk</td>
     <td class="tg-c3ow">Oct 2018</td>
     <td class="tg-c3ow">Málaga (Spain)</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Introducción a data science en Python (V2)</td>
+    <td class="tg-0pky"><a href="https://github.com/PyDataMallorca/PyConES2018_Introduccion_a_data_science_en_Python">
+   Introducción a data science en Python (V2) </a></td>
     <td class="tg-c3ow">PyConES</td>
     <td class="tg-c3ow">Workshop</td>
     <td class="tg-c3ow">Oct 2018</td>
     <td class="tg-c3ow">Málaga (Spain)</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Introducción a data science en Python (V1)</td>
+    <td class="tg-0pky"><a href="https://github.com/PyDataMallorca/PyConES2018_Introduccion_a_data_science_en_Python">
+   Introducción a data science en Python (V1) </a></td>
     <td class="tg-c3ow">PyData Mallorca</td>
     <td class="tg-c3ow">Workshop</td>
     <td class="tg-c3ow">Sep 2018</td>
     <td class="tg-c3ow">Palma (Spain)</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Hacking Reinforcement Learning</td>
+    <td class="tg-0pky"><a href="https://docs.google.com/presentation/d/1aquFoqMz8gYhua2zr-PCckL2-6-weQFfbZ4fRVywW2Y/edit?usp=sharing">
+     Hacking Reinforcement Learning</a></td>
     <td class="tg-c3ow">EuroPython</td>
     <td class="tg-c3ow">Talk</td>
     <td class="tg-c3ow">Jul 2018</td>
@@ -230,21 +258,24 @@ I installed, configured and administrated an OpenNebula-based cloud computing.
     <td class="tg-c3ow">Alicante (Spain)</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Reinforcement learning for developers</td>
+    <td class="tg-0pky"><a href="https://docs.google.com/presentation/d/1ZxTeug3rGp71Oo0cvVN-hUQIrqJ59WvBwTfpn4gNJuw/edit?usp=sharing">
+     Reinforcement learning for developers</a></td>
     <td class="tg-c3ow">PiterPy</td>
     <td class="tg-c3ow">Talk</td>
     <td class="tg-c3ow">Nov 2017</td>
     <td class="tg-c3ow">St. Petersburg (Russia)</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Inside Airbnb: Visualizing data that includes geographic locations</td>
+    <td class="tg-0pky"><a href="https://github.com/Guillemdb/Inside-Airbnb-EP17">
+    Inside Airbnb: Visualizing data that includes geographic locations</a></td>
     <td class="tg-c3ow">EuroPython</td>
     <td class="tg-c3ow">Talk</td>
     <td class="tg-c3ow">Jul 2017</td>
     <td class="tg-c3ow">Rimini (Italy)</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Happiness inside a job: a social network analysis (V2)</td>
+    <td class="tg-0pky"><a href="https://docs.google.com/presentation/d/1rcPADExVIk0d5GMb3x2mN1HBXaanNzor4_0U5Fp3oKQ/edit?usp=sharing">
+    Happiness inside a job: a social network analysis (V2)</a></td>
     <td class="tg-c3ow">Miguel Hernández Univ.</td>
     <td class="tg-c3ow">Talk</td>
     <td class="tg-c3ow">Jul 2017</td>
@@ -258,7 +289,8 @@ I installed, configured and administrated an OpenNebula-based cloud computing.
     <td class="tg-c3ow">Madrid (Spain)</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Happiness inside a job: a social network analysis (V1)</td>
+    <td class="tg-0pky"><a href="https://docs.google.com/presentation/d/1rcPADExVIk0d5GMb3x2mN1HBXaanNzor4_0U5Fp3oKQ/edit?usp=sharing">
+    Happiness inside a job: a social network analysis (V1)</a></td>
     <td class="tg-c3ow">PyData Barcelona</td>
     <td class="tg-c3ow">Talk</td>
     <td class="tg-c3ow">May 2017</td>
@@ -272,21 +304,24 @@ I installed, configured and administrated an OpenNebula-based cloud computing.
     <td class="tg-c3ow">Zaragoza (Spain)</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Introduction to data science</td>
+    <td class="tg-0pky"><a href="https://github.com/PyDataMallorca/WS_Introduction_to_data_science">
+     Introduction to data science</a></td>
     <td class="tg-c3ow">PyData Mallorca</td>
     <td class="tg-c3ow">Workshop</td>
     <td class="tg-c3ow">Feb 2017</td>
     <td class="tg-c3ow">Palma (Spain)</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Per shaolin ad astra</td>
+    <td class="tg-0pky"><a href="https://github.com/Guillemdb/PyconEs-2016">
+    Per shaolin ad astra</a></td>
     <td class="tg-c3ow">PyConES</td>
     <td class="tg-c3ow">Talk</td>
     <td class="tg-c3ow">Oct 2016</td>
     <td class="tg-c3ow">Almería (Spain)</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Interactive Data Kung Fu with Shaolin</td>
+    <td class="tg-0pky"><a href="https://github.com/Guillemdb/Data-Kung-Fu-talk-EP2016">
+    Interactive Data Kung Fu with Shaolin</a></td>
     <td class="tg-c3ow">EuroPython</td>
     <td class="tg-c3ow">Talk</td>
     <td class="tg-c3ow">Jul 2016</td>
@@ -311,17 +346,20 @@ Find me on [Google scholar](https://scholar.google.es/citations?hl=ca&user=xx1L5
     <th class="tg-0lax">Date</th>
   </tr>
   <tr>
-    <td class="tg-0lax">Generalized TCP-RED dynamical model for Internet congestion control</td>
+    <td class="tg-0lax"><a href="https://www.sciencedirect.com/science/article/pii/S1007570419303946">
+    Generalized TCP-RED dynamical model for Internet congestion control</a> </td>
     <td class="tg-0lax">Communications in Nonlinear Science and Numerical Simulation 82, 105075</td>
     <td class="tg-0lax">March 2020</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Bifurcation analysis for the Internet congestion</td>
+    <td class="tg-0lax"><a href="https://ieeexplore.ieee.org/document/8845266">
+    Bifurcation analysis for the Internet congestion</a> </td>
     <td class="tg-0lax">IEEE INFOCOM 2019-IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)</td>
     <td class="tg-0lax">April 2019</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Stabilizing Chaotic Behavior of RED</td>
+    <td class="tg-0lax"><a href="https://ieeexplore.ieee.org/document/8526821">
+    Stabilizing Chaotic Behavior of RED</a></td>
     <td class="tg-0lax">2018 IEEE 26th International Conference on Network Protocols (ICNP), 241-242</td>
     <td class="tg-0lax">September 2018</td>
   </tr>
@@ -331,22 +369,25 @@ Find me on [Google scholar](https://scholar.google.es/citations?hl=ca&user=xx1L5
     <td class="tg-0lax">September 2018</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Solving Atari Games Using Fractals And Entropy</td>
+    <td class="tg-0lax"><a href="https://arxiv.org/abs/1807.01081">
+    Solving Atari Games Using Fractals And Entropy</a> </td>
     <td class="tg-0lax">Arxiv</td>
     <td class="tg-0lax">July 2018</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Fractal AI: A fragile theory of intelligence</td>
+    <td class="tg-0lax"><a href="https://arxiv.org/abs/1803.05049">
+    Fractal AI: A fragile theory of intelligence</a> </td>
     <td class="tg-0lax">Arxiv</td>
     <td class="tg-0lax">March 2018</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Happiness an inside Job? Turnover prediction from likeability, engagement and relative happiness</td>
+    <td class="tg-0lax"><a href="https://www.slideshare.net/harriken/ieee-happiness-an-inside-job-asoman-2017">
+    Happiness an inside Job? Turnover prediction from likeability, engagement and relative happiness</a> </td>
     <td class="tg-0lax">Proceedings of the 2017 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining 2017</td>
     <td class="tg-0lax">July 2017</td>
   </tr>
   <tr>
-    <td class="tg-0lax">General Algorithmic Search</td>
+    <td class="tg-0lax"><a href="https://arxiv.org/abs/1705.08691">General Algorithmic Search</a></td>
     <td class="tg-0lax">Arxiv</td>
     <td class="tg-0lax">May 2017</td>
   </tr>
@@ -386,6 +427,9 @@ The fundamental principles of our work are accessible online:
 }
 .col-1-2:last-child {
   margin-left: 20px;
+}
+.col-1-2:first-child {
+  margin-left: 15%;
 }
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}

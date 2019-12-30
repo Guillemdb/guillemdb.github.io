@@ -1,4 +1,4 @@
-## Professional CV
+# Professional CV
 
 Welcome to my CV! This page is is still under construction
 
@@ -15,14 +15,14 @@ I've enjoyed Barcelona, Murcia, Madrid, Paris, and London, but I finally settled
 
 <br>
 
-### Work Experience
+## Work Experience
 
 ---
 
 <img src="images/experience.png" alt="Experience" style="max-width: 130%;">
 <br>
 
-#### Self employed
+### Self employed
 ***
 
 <details>
@@ -60,7 +60,7 @@ I collaborate with my associates to provide the following services:
 </details>
 <br>
 
-#### Full time jobs in private companies
+### Full time jobs in private companies
 ***
 <details>
 <summary><strong>Production machine learning engineer @ source{d} (Apr 19 - Dec 19)</strong> </summary>
@@ -115,7 +115,7 @@ At HCSoft I contributed to developing the theoretical foundations of the Fractal
 </details>
 <br>
 
-#### Academic research
+### Academic research
 ***
 <details>
 <summary><strong>Team member @ Research group UMH Univ. (Dec 16 - Present)</strong> </summary>
@@ -140,7 +140,7 @@ I installed, configured and administrated an OpenNebula-based cloud computing.
 </details>
 <br>
 
-#### Talks and workshops
+## Talks and workshops
 ***
 <details>
 <summary>summary table (click me)</summary>
@@ -296,7 +296,7 @@ I installed, configured and administrated an OpenNebula-based cloud computing.
 </details>
 <br>
 
-### Papers
+## Papers
 
 ----
 
@@ -352,6 +352,31 @@ Find me on [Google scholar](https://scholar.google.es/citations?hl=ca&user=xx1L5
   </tr>
 </table>
 
+## Independent research (Fractal AI)
+
+In 2014 I started doing research on Artificial Intelligence with [Sergio Hernández](https://twitter.com/entropyfarmer)
+ for the pleasure of finding things out.
+
+We have been working on Fractal AI, a theory based on defining intelligence as a thermodynamic process, 
+that allows us to define any task as en entropy maximization problem. After developing Fractal AI from first
+ principles rooted in physics and information theory, we are able to:
+ 
+ * Explain and predict the performance of an agent or a sampling process.
+ * Propose a new approach to the exploration vs. exploitation problem.
+ * Derive new optimization and path finding algorithms that outperform the current state of the art.
+ * Derive new mathematical tools that allows us to sample any state space near-optimally.
+ * Develop a non-linear control theory based on Monte Carlo sampling.
+ * Measure and compare the efficiency of different algorithms.
+ * Improve and stabilize the performance of widely used reinforcement learning algorithms.
+ 
+The fundamental principles of our work are accessible online:
+
+- [Blog](http://entropicai.blogspot.com) that describes our early research process.
+- [Arxiv](https://arxiv.org/abs/1803.05049) manuscript describing the fundamental principles of our work.
+- [Youtube channel](https://www.youtube.com/user/finaysergio/videos) with videos showing how different prototypes work.
+- [GitHub repository](https://github.com/FragileTech/FractalAI) containing a prototype that solves most Atari games.
+ 
+
 <style type="text/css">
  .grid {
   display: flex;
@@ -368,3 +393,4 @@ Find me on [Google scholar](https://scholar.google.es/citations?hl=ca&user=xx1L5
 .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
+

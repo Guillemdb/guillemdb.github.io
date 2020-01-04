@@ -19,15 +19,15 @@
 
 # Professional CV
 
-Welcome to my CV! This page is is still under construction
+Welcome to my CV! If you want to know more about me click on the descriptions and links.
 
 <details open>
 <summary><strong>About me</strong></summary>
 <br>
 I am a data scientist and a Python developer. I love solving machine learning challenges, teaching, learning and coding.
-I am a PyData Mallorca co-organizer because I enjoy contributing to the Open Source community.
+I am a [PyData Mallorca](https://www.meetup.com/PyData-Mallorca/) co-organizer because I enjoy contributing to the Open Source community.
 <br>
-I've enjoyed Barcelona, Murcia, Madrid, Paris, and London, but I finally settled down in Palma, where I grew up.
+I've lived in Barcelona, Murcia, Madrid, Paris, and London, but now I work remotely from <a href="https://goo.gl/maps/pTurFGKJaJdAimLK8">Palma</a>, where I grew up.
 <br>
 </details>
 

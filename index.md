@@ -416,10 +416,65 @@ The fundamental principles of our work are accessible online:
 - [Arxiv](https://arxiv.org/abs/1803.05049) manuscript describing the fundamental principles of our work.
 - [Youtube channel](https://www.youtube.com/user/finaysergio/videos) with videos showing how different prototypes work.
 - [GitHub repository](https://github.com/FragileTech/FractalAI) containing a prototype that solves most Atari games.
- 
+
+## Education
+
+<details open>
+<summary><strong><a href="https://eetac.upc.edu/en/study/bachelors-deegrees/telematics-engineering-1">
+Bachelor's degree in Network Engineering</a> @ Politechnic Univ. of Catalonia, Spain. (Sep 12 - Oct 15)</strong> </summary>
+
+The Bachelor’s degree in Network Engineering provides the knowledge needed to conceive, design, implement and operate 
+telematic networks, as well as knowledge of network security mechanisms, data transmission, protocols,
+ services and applications. I learned Python as a hobby, and presented some of my assignments as Jupyter notebooks:
+<br>
+<ul style="list-style-type:disc;">
+    <li><a href="https://github.com/Guillemdb/graphs-and-network-analysis/blob/master/1%20-%20Geant%20network%20and%20introduction%20to%20graph%20theory.ipynb">
+    The GEANT network</a>.</li>
+    <li><a href="https://github.com/Guillemdb/Smart-cities/blob/master/SmartCities.ipynb">
+    Estimating parameters for Smart Cities systems</a>.</li>
+    <li><a href="https://nbviewer.jupyter.org/github/Guillem-db/Seguridad-de-redes/blob/master/ShellShocker.ipynb">
+    Penetration testing with python & Metasploit</a>.</li>
+    <li><a href="https://nbviewer.jupyter.org/github/Guillem-db/Seguridad-de-redes/blob/master/Zreq.ipynb">
+    Resource enumeration using Python, Javascript and HTML</a>.</li>
+    <li><a href="https://github.com/Guillemdb/Telecos/blob/master/traffic%20matrix.pdf">
+    Traffic matrix estimation</a>.</li>
+</ul>  
+</details>
+<br>
+
+<details>
+<summary><strong>Bachelor's degree Thesis: 
+<a href="https://upcommons.upc.edu/bitstream/handle/2117/91225/memoria.pdf?sequence=1&isAllowed=y">
+Time series and graph analysis in the Jupyter notebook</a> @ Politechnic Univ. of Catalonia, Spain. (Oct 16)</strong> </summary>
+
+ The main goal of this research was to provide an introduction to the Shaolin Framework by 
+ thoroughly explaining all of its core features, and building a data analysis application.
+ This project allows me to learn how to:<br>
+<ul style="list-style-type:disc;"> 
+    <li><a href="https://github.com/HCsoft-public/shaolin/blob/master/examples/DataFrameScatter.ipynb">
+    Create interactive visualizations</a>.</li>
+    <li><a href="https://github.com/HCsoft-public/shaolin/blob/master/examples/GraphCalculator.ipynb">
+    Perform calculations on graphs</a>.</li>
+    <li><a href="https://github.com/HCsoft-public/shaolin/blob/master/examples/GraphPlot.ipynb">
+    Plot matrices as graphs</a>.</li>
+</ul>  
+</details>
+<br>
+<details>
+<summary><strong>Cloud computing DevOps internship @ Polytechnic University of Catalonia  (May 14 - Dec 14)</strong> </summary>
+During this internship I:
+<ul style="list-style-type:disc;">
+    <li>Installed, configured and tested an OpenNebula-based cloud computing cluster.</li>
+    <li>Accessed and managed a rack with several machines.</li>
+    <li>Installed and configured Ubuntu server on the machines.</li>
+    <li>Created and tested different types of Images and virtualization features.</li>
+</ul>  
+
+</details>
+<br>
 
 <style type="text/css">
- .grid {
+.grid {
   display: flex;
  }
 .col-1-2 {

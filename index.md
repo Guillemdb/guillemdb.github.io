@@ -60,7 +60,7 @@ I worked as a contractor in different kinds of projects such as:
         <ul style="list-style-type:disc;">
           <li>Mining criptocurrency data from different sources.</li>
           <li>Using NLP models to predict blockchain ICO success.</li>
-          <li>Predicting employees churn rate.</li>
+          <li>Predicting employee churn rate.</li>
         </ul>  
     </div>
 </div>
@@ -460,6 +460,7 @@ Time series and graph analysis in the Jupyter notebook</a> @ Politechnic Univ. o
 </ul>  
 </details>
 <br>
+
 <details>
 <summary><strong>Cloud computing DevOps internship @ Polytechnic University of Catalonia  (May 14 - Dec 14)</strong> </summary>
 During this internship I:
@@ -469,8 +470,70 @@ During this internship I:
     <li>Installed and configured Ubuntu server on the machines.</li>
     <li>Created and tested different types of Images and virtualization features.</li>
 </ul>  
-
 </details>
+<br>
+
+# Gallery
+
+<br>
+<table class="tg">
+  <tr>
+    <th class="tg-0lax"></th>
+    <th class="tg-0lax"></th>
+    <th class="tg-0lax"></th>
+  </tr>
+  <tr>
+    <td class="tg-0lax">
+        <video width="320" height="240" controls>
+            <source src="assets/video/montezuma_fai_h264.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video> 
+    </td>
+    <td class="tg-0lax">
+        <video width="320" height="240" controls>
+            <source src="assets/video/pacman_big_h264.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video> 
+    </td>
+    <td class="tg-0lax">
+        <video width="320" height="240" controls>
+            <source src="assets/video/optimization.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video> 
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">
+        <video width="320" height="240" controls>
+            <source src="assets/video/graph_plot.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video> 
+    </td>
+    <td class="tg-0lax">
+       <video width="320" height="240" controls>
+            <source src="assets/video/scatter_plot.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video> 
+    </td>
+    <td class="tg-0lax">
+        <video width="320" height="240" controls>
+            <source src="assets/video/bokeh_dashboard.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video> 
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">
+        <img src="assets/video/sonic.gif" width="320" height="240">
+    </td>
+    <td class="tg-0lax">
+       <img src="assets/video/tandem_clear.gif" width="320" height="240">
+    </td><td class="tg-0lax">
+        <img src="assets/video/asterix.gif" width="320" height="240">
+    </td>
+  </tr>  
+</table>
+ 
 <br>
 
 <style type="text/css">

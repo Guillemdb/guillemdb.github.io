@@ -45,6 +45,18 @@ I've lived in Barcelona, Murcia, Madrid, Paris, and London, but now I work remot
 ***
 
 <details>
+<summary><strong>Fragile Technologies co-founder (Mar 19 - Present)</strong> </summary>
+I collaborate with my associates to provide the following services:
+<br>
+<ul style="list-style-type:disc;">
+    <li>Developing custom algorithms to solve NP hard problems</li>
+    <li>Advising on data science projects: infrastructure, architecture, product design and deployment</li>
+    <li>Developing new Reinforcement Learning algorithms.</li>
+</ul>  
+</details>
+<br>
+
+<details>
 <summary><strong>Freelance  data  scientist (Apr 15 - Mar 19)</strong></summary>
 I worked as a contractor in different kinds of projects such as:
 <br>
@@ -65,17 +77,6 @@ I worked as a contractor in different kinds of projects such as:
     </div>
 </div>
 
-</details>
-<br>
-<details>
-<summary><strong>Fragile Technologies co-founder (Mar 19 - Present)</strong> </summary>
-I collaborate with my associates to provide the following services:
-<br>
-<ul style="list-style-type:disc;">
-    <li>Developing custom algorithms to solve NP hard problems</li>
-    <li>Advising on data science projects: infrastructure, architecture, product design and deployment</li>
-    <li>Developing new Reinforcement Learning algorithms.</li>
-</ul>  
 </details>
 <br>
 
@@ -151,11 +152,6 @@ I am a team member of "Aplicaciones de los Sistemas Dinámicos Discretos y Conti
 <details>
 <summary><strong>Research assistant @ University of the United Arab Emirates (May 17 - Dec 18)</strong> </summary>
 Research assistant at University of the United Arab Emirates (Al Ain - Abu Dhabi),UAE. Robots and media lab.
-</details>
-<br>
-<details>
-<summary><strong>Cloud computing DevOps internship @ Polytechnic University of Catalonia  (Jun 14 - Dec 14)</strong> </summary>
-I installed, configured and administrated an OpenNebula-based cloud computing.
 </details>
 <br>
 
@@ -395,6 +391,8 @@ Find me on [Google scholar](https://scholar.google.es/citations?hl=ca&user=xx1L5
 
 ## Independent research (Fractal AI)
 
+---
+
 In 2014 I started doing research on Artificial Intelligence with [Sergio Hernández](https://twitter.com/entropyfarmer)
  for the pleasure of finding things out.
 
@@ -419,6 +417,7 @@ The fundamental principles of our work are accessible online:
 
 ## Education
 
+--- 
 <details open>
 <summary><strong><a href="https://eetac.upc.edu/en/study/bachelors-deegrees/telematics-engineering-1">
 Bachelor's degree in Network Engineering</a> @ Politechnic Univ. of Catalonia, Spain. (Sep 12 - Oct 15)</strong> </summary>
@@ -475,28 +474,25 @@ During this internship I:
 
 # Gallery
 
+---
+
 <br>
 <table class="tg">
   <tr>
-    <th class="tg-0lax"></th>
-    <th class="tg-0lax"></th>
-    <th class="tg-0lax"></th>
-  </tr>
-  <tr>
     <td class="tg-0lax">
-        <video width="320" height="240" controls autoplay="true">
+        <video width="320" height="240" controls="controls" autoplay="autoplay">
             <source src="assets/video/montezuma_fai_h264.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video> 
     </td>
     <td class="tg-0lax">
-        <video width="320" height="240" controls autoplay="true">
+        <video width="320" height="240" controls="controls" autoplay="autoplay">
             <source src="assets/video/pacman_big_h264.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video> 
     </td>
     <td class="tg-0lax">
-        <video width="320" height="240" controls autoplay="true">
+        <video width="320" height="240" controls="controls" autoplay="autoplay">
             <source src="assets/video/optimization.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video> 
@@ -504,19 +500,19 @@ During this internship I:
   </tr>
   <tr>
     <td class="tg-0lax">
-        <video width="320" height="240" controls autoplay="true">
+        <video width="320" height="240" controls="controls" autoplay="autoplay">
             <source src="assets/video/graph_plot.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video> 
     </td>
     <td class="tg-0lax">
-       <video width="320" height="240" controls autoplay="true">
+       <video width="320" height="240" controls="controls" autoplay="autoplay">
             <source src="assets/video/scatter_plot.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video> 
     </td>
     <td class="tg-0lax">
-        <video width="320" height="240" controls autoplay="true">
+        <video width="320" height="240" controls="controls" autoplay="autoplay">
             <source src="assets/video/bokeh_dashboard.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video> 

@@ -484,19 +484,19 @@ During this internship I:
   </tr>
   <tr>
     <td class="tg-0lax">
-        <video width="320" height="240" controls>
+        <video width="320" height="240" controls autoplay="true">
             <source src="assets/video/montezuma_fai_h264.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video> 
     </td>
     <td class="tg-0lax">
-        <video width="320" height="240" controls>
+        <video width="320" height="240" controls autoplay="true">
             <source src="assets/video/pacman_big_h264.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video> 
     </td>
     <td class="tg-0lax">
-        <video width="320" height="240" controls>
+        <video width="320" height="240" controls autoplay="true">
             <source src="assets/video/optimization.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video> 
@@ -504,19 +504,19 @@ During this internship I:
   </tr>
   <tr>
     <td class="tg-0lax">
-        <video width="320" height="240" controls>
+        <video width="320" height="240" controls autoplay="true">
             <source src="assets/video/graph_plot.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video> 
     </td>
     <td class="tg-0lax">
-       <video width="320" height="240" controls>
+       <video width="320" height="240" controls autoplay="true">
             <source src="assets/video/scatter_plot.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video> 
     </td>
     <td class="tg-0lax">
-        <video width="320" height="240" controls>
+        <video width="320" height="240" controls autoplay="true">
             <source src="assets/video/bokeh_dashboard.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video> 

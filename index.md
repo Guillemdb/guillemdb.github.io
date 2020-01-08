@@ -38,8 +38,37 @@ I've lived in Barcelona, Murcia, Madrid, Paris, and London, but now I work remot
 
 ---
 
-<img src="images/experience.png" alt="Experience" style="max-width: 130%;">
+<img id="myImg" alt="work experience" src="images/experience.png">
+<!-- The Modal -->
+<div id="myModal" class="modal">
+  <span class="close" style="color: white;">&times;</span>
+  <img class="modal-content" id="img01">
+  <div id="caption"></div>
+</div>
 <br>
+
+<script>
+// Get the modal
+var modal = document.getElementById("myModal");
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var img = document.getElementById("myImg");
+var modalImg = document.getElementById("img01");
+var captionText = document.getElementById("caption");
+img.onclick = function(){
+  modal.style.display = "block";
+  modalImg.src = this.src;
+  captionText.innerHTML = this.alt;
+}
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() { 
+  modal.style.display = "none";
+}
+</script>
 
 ### Self employed
 ***
@@ -333,7 +362,37 @@ Research assistant at University of the United Arab Emirates (Al Ain - Abu Dhabi
 
 Find me on [Google scholar](https://scholar.google.es/citations?hl=ca&user=xx1L5RYAAAAJ&view_op=list_works&gmla=AJsN-F7et6TNmz2cKVuBQk-tBNnHA2OIj5WmyzAJcUrETa_9tup1w0aLtv0bU-aPFyUiY6GXiv9-oieJ8TwQA5uywUVBiJp4ij7nJcSunnMdQQmsxfmB1Dp4OdyR7OrcsL9nBZWg9hSH22IHShS1gB6V10Vj92SA4iouIUwvzBlKiQOj_Zo04xY).
 
-<img src="images/papers.png" alt="Papers" style="max-width: 130%;">
+<img id="papersImg" alt="Papers" src="images/papers.png">
+<!-- The Modal -->
+<div id="papersModal" class="modal">
+  <span class="close">&times;</span>
+  <img class="modal-content" id="img02">
+  <div id="caption"></div>
+</div>
+
+<script>
+// Get the modal
+var modal = document.getElementById("papersModal");
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var img = document.getElementById("papersImg");
+var modalImg = document.getElementById("img02");
+var captionText = document.getElementById("caption");
+img.onclick = function(){
+  modal.style.display = "block";
+  modalImg.src = this.src;
+  captionText.innerHTML = this.alt;
+}
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[1];
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() { 
+  modal.style.display = "none";
+}
+</script>
+
 <br>
 <table class="tg">
   <tr>

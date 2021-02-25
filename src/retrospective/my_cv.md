@@ -397,7 +397,7 @@ Find me on [Google scholar](https://scholar.google.es/citations?hl=ca&user=xx1L5
     <td class="tg-0lax">May 2017</td>
   </tr>
 </table>
-
+<br>
 ## Education
 
 --- 

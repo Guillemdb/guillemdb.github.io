@@ -1,8 +1,15 @@
-```{include} ../../README.md
+```{include} retrospective/project.md
 ```
 
 ---
 # Table of Contents
+```{toctree}
+---
+maxdepth: 5
+caption: About this page
+---
+retrospective/project.md
+```
 ```{toctree}
 ---
 maxdepth: 5

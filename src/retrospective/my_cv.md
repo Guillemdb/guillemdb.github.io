@@ -19,13 +19,14 @@
 
 ## Professional CV
 
-Welcome to my CV! If you want to know more about me click on the descriptions and links.
+Welcome to my CV until Dec 2019! If you want to know more about me click on the descriptions and links.
 
 <details open>
 <summary><strong>About me</strong></summary>
 <br>
 I am a data scientist and a Python developer. I love solving machine learning challenges, teaching, learning and coding.
-I am a <a href="https://www.meetup.com/PyData-Mallorca/">PyData Mallorca</a> co-organizer because I enjoy contributing to the Open Source community.
+I am a <a href="https://www.meetup.com/PyData-Mallorca/">PyData Mallorca</a> co-organizer 
+because I enjoy contributing to the Open Source community.
 <br>
 I've lived in Barcelona, Murcia, Madrid, Paris, and London, but now I work remotely from <a href="https://goo.gl/maps/pTurFGKJaJdAimLK8">Palma</a>, where I grew up.
 <br>
@@ -49,7 +50,7 @@ I've lived in Barcelona, Murcia, Madrid, Paris, and London, but now I work remot
 ***
 
 <details>
-<summary><strong>Fragile Technologies co-founder (Mar 19 - Present)</strong> </summary>
+<summary><strong>Fragile Technologies co-founder (Mar 19 - Dec 19)</strong> </summary>
 I collaborate with my associates to provide the following services:
 <br>
 <ul style="list-style-type:disc;">
@@ -398,6 +399,7 @@ Find me on [Google scholar](https://scholar.google.es/citations?hl=ca&user=xx1L5
   </tr>
 </table>
 <br>
+
 ## Education
 
 --- 

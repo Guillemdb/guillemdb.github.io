@@ -199,8 +199,8 @@ in a distributed fashion, and implemented an API to make gym compatible with pla
   
 #### Bring fresh ideas and directions for our work / research
 
-* In 2017 I hacked myself into the first position in the OpenAI gym leaderboard, and scored #1 
-  on several Atari games using sampling algorithms with no learning. That helped me find a sponsor to 
+* In 2017, I tested our planning algorithms on the OpenAI gym leaderboard, and scored #1 
+  on several Atari games using sampling algorithms instead of training RL agents. That helped me find a sponsor to 
   implement a mu-zero architecture (published by DeepMind in 2019) using my own planning algorithms
   instead of MCTS. I generated a dataset of 500GB of top performing trajectories to train it, 
   and I was incapable on making it converge using a single GPU.

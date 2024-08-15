@@ -4,23 +4,57 @@ title: Experience
 permalink: /experience/
 ---
 
-## Industry
+With a diverse background spanning academia, industry, and self-employment, I have accumulated 
+extensive experience in developing and implementing innovative AI and machine learning solutions
+across various sectors. My journey has equipped me with the skills to lead technical teams, 
+collaborate with top consultancy firms, and contribute to cutting-edge research, 
+all while driving impactful results for startups and established organizations alike.
+
+## Self Employed
 ------------
 
-#### **Founder. Head of Engineering & Machine Learning** <br> *Fragile Technologies*,  Mallorca (Spain)  
+#### **ML community member** <br> *Toptal*,  USA  
+*March 2022 - PRESENT*
+
+#### **Founder** <br> *Fragile Technologies*,  Mallorca (Spain)  
 *March 2019 - PRESENT*
-* Responsible for the engineering processes of the company and our machine learning stack.
-* Responsible for leading and mentoring our a data science team.
-* Advisor for several companies on how to architect and develop cost-efficient AI solutions.
 
-Technologies: Python, ansible, Docker, Kubernetes, KubeFlow, Jupyter lab
+* **Oversee daily activities**: Manage all aspects of the company's operations, ensuring smooth and efficient workflows.
+* **Lead engineering and AI initiatives**: Architect and refine the company’s machine learning stack, driving innovation and excellence in engineering processes.
+* **Team leadership and mentorship**: Lead and mentor a talented data science team, fostering a culture of collaboration and continuous learning while guiding them through complex AI projects.
 
-#### **Senior ML & Software Engineer (External consultant)** <br> *DeepTip8*, Oviedo (Spain) 
-*July 2021 - December 2021*
-* Responsible for designing and implementing a sports betting MVP based on ML, asset pricing methods, 
-  and portfolio optimization theory, that yields weekly returns of 10%, and is 30% more accurate than its predecessor.
+#### Advisory roles for startups and consulting companies
+* **Developed project proposals**: Assisted in the creation of comprehensive project proposals 
+that incorporated machine learning (ML) solutions for clients in the retail, energy, and manufacturing industries.
+* **Provided AI expertise in client meetings**: Served as the primary AI expert during high-stakes 
+meetings between top consultancy firms and potential clients, showcasing the consultancy's AI capabilities.
+* **Built client confidence**: Engaged with C-level executives and technical teams, translating complex 
+AI concepts into actionable insights, enhancing the consultancy's credibility and technical competence.
 
-Technologies: Python, Pycaret, pandas, sklearn, holoviews, bokeh, panel, scipy
+#### Consultancy projects
+* **Developed a sports betting system**: Engineered an ML-based sports betting system utilizing asset pricing methods and portfolio optimization to recommend strategies for football matches.
+* **Innovated PCB routing algorithms**: Designed and implemented cutting-edge routing algorithms for printed circuit boards, improving efficiency and accuracy.
+* **Advanced reinforcement learning (RL) applications**: Developed novel RL algorithms for component placement in PCBs, optimizing production processes.
+* **Built MVPs for startups**: Collaborated with startups in the real estate and tourism sectors, creating MVPs that translated innovative ideas into actionable solutions.
+* **Optimized advertising campaigns**: Designed a machine learning pipeline that enhanced the performance and targeting of advertising campaigns.
+* **Developed healthcare solutions**: Built an application for analyzing and forecasting antibiotic resistance in hospitals, contributing to improved healthcare outcomes.
+
+
+## Industry
+---------------------------------------
+
+#### **Founding engineer** <br> *Poolside*, Paris (France) 
+*September 2023 - July 2024*
+* Designed and implemented a synthetic data generation pipeline for code datasets.
+* Responsible for building the visualization and model analysis tools, and implementing bet engineering practices.
+* Designed, implemented and tested novel training algorithms.
+* Implemented novel planning algorithms for data generation using LLMs.
+
+#### **Data scientist** <br> *Bayer*, Barcelona (Spain) 
+*August 2022 - September 2023*
+* Designed and implemented a synthetic data generation pipeline for biomedical images.
+* Implemented a training pipeline for Image diffusion models (Stable diffusion) and Autoencoders.
+* Mentored junior data scientists and engineers on improving their communication and dealing with stakeholders.
 
 #### **AI researcher & Engineer** <br> *GoodAI*, Prague (Czech Republic)
 *May 2020 - April 2021*
@@ -31,13 +65,9 @@ and out-of-distribution generalization of deep learning models) that enabled our
 researchers to iterate faster and to understand the results better.
 * Proposed improvements and optimizations to different research projects, and reproduced recently published research to benchmark our findings.
 
-Technologies: Python, Pytorch, Pytorch Lightning, einops, numpy, holoviews, sklearn, Docker
-
 #### **Senior Engineer (External consultant)** <br> *McKinsey*, Madrid (Spain)
 *June 2020 - December 2020*
 * Designed and led the development of an asset management prototype for the energy industry.
-
-Technologies: Python, gurobi, networkx, pandas, panel, holoviews
 
 #### **Production Machine Learning Engineer** <br> *Source{d}*, Madrid (Spain)
 *April 2019 - December 2019*
@@ -45,15 +75,11 @@ Technologies: Python, gurobi, networkx, pandas, panel, holoviews
 and allowed project managers to understand how developers collaborate by providing interactive reports in an Apache Superset dashboard.
 * Maintained the Machine Learning stack of the company, the Docker containers, and the continuous integration pipeline of the ML projects.
 
-Technologies:  Python, pyspark, MySQL, sqlalchemy, numpy, docker, holoviews, Apache Superset
-
 #### **Research Scientist & Engineer** <br> *InstaDeep*, Paris (France) & London (UK)
 *September 2018 - February 2019*
 * Designed and implemented a novel architecture search pipeline in PyTorch based on AlphaZero that achieved state-of-the-art performance.
 * Implemented different Reinforcement Learning algorithms for both continuous and discrete problems.
-* Mentored Phd students teaching them code and documentation quality standards, and contributed to the core business algorithms.
-
-Technologies:  Python, Pytorch, numpy, matplotlib, bokeh
+* Mentored PhD students teaching them code and documentation quality standards, and contributed to the core business algorithms.
 
 #### **AI researcher** <br> *Source{d}*, Madrid (Spain)
 *July 2017 - December 2017*
@@ -61,24 +87,17 @@ Technologies:  Python, Pytorch, numpy, matplotlib, bokeh
 * Developed prototypes for new planning algorithms.
 * Implemented an AlphaZero-like agent that used my novel planning algorithms on Atari environments.
 
-Technologies: Python, Keras, Tensorflow, numpy, matplotlib
-
 #### **AI researcher** <br> *HCSoft programación*, Murcia (Spain)
 *January 2016 - December 2016*
 * Developed the theoretical foundations of a novel AI theory, the prototypes and the visualization tools to solve different NP-hard problems.
-
-Technologies: Python, pandas, numpy, bokeh, scipy
 
 #### **Data Scientist & Software Developer** <br> *Freelance*, Mallorca (Spain)
 *April 2015 - September 2018*
 * Worked as a contractor developing projects in the following areas: Data engineering, Business Intelligence, Real Estate, Epidemiology, and Cryptocurrencies.
 
-Technologies: Python, pandas, matplotlib, bokeh, excel, scipy
-
 #### **Co-Founder. Full stack developer** <br> *Yachtum*, Barcelona (Spain)
 *June 2013 - December 2014*
 
-Technologies: Javascript, PHP, Angular, Meteor, MongoDB, Symfony
 
 ## Academia
 ------------

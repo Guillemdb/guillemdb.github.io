@@ -8,6 +8,11 @@ permalink: /research/
 
 ### Journal and conference papers
 
+**2024**
+* **Latent Diffusion Models with Image-Derived Annotations for Enhanced AI-Assisted Cancer Diagnosis in Histopathology**<br>
+*Pedro Osorio, Guillermo Jimenez-Perez, Javier Montalt-Tordera, Jens Hooge, Guillem Duran-Ballester, Shivam Singh, Moritz Radbruch, Ute Bach, Sabrina Schroeder, Krystyna Siudak, Julia Vienenkoetter, Bettina Lawrenz, Sadegh Mohammadi* <br>
+Diagnostics 14 (13)
+
 **2022**
 * **Physics-Inspired Swarm Optimization: The General Algorithmic Search**<br>
 *S Hernández, G Duran, JM Amigó* <br>

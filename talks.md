@@ -26,6 +26,12 @@ permalink: /talks/
 
 ### Research Talks and Workshops
 
+**2023**
+* An overview of the data science job market. Miguel Hernández Univ., Elche (Spain)
+
+**2022**
+* Introduction to NLP for PhD students. Miguel Hernández Univ., Elche (Spain)
+
 **2021**
 * Deriving domain-specific algorithms using FractalAI (Workshop). GoodAI, Prague (Czech Republic)
 
